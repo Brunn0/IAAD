@@ -1,0 +1,3 @@
+Qual é a diferença entre um Banco de Dados e um Sistema de Gerenciamento de Banco de Dados?
+
+Banco de dados é um conjunto de informações. Enquanto um sistema de gerenciamento de banco de dados, é aferramenta para gerenciamento das informações de um banco.
